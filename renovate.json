@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "bumpVersion" : "patch",
+  "bumpVersion" : "prerelease",
   "extends": [
     "config:base"
   ],

@@ -6,7 +6,7 @@
   "prHourlyLimit": 3,
   "packageRules": [
   
-  "bumpVersion": "prerelease"
+  "bumpVersion": "patch"
 ]
   
 }

@@ -1,8 +1,5 @@
 {
   "bumpVersion" : "patch",
-    "extends": [
-    "config:base"
-  ],
   "enabledManagers": [
      "maven"
   ],

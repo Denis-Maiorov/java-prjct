@@ -1,12 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "bumpVersion" : "patch",
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 3,
-  "packageRules": [
-  
-  "bumpVersion" : "patch"
-]
-  
+  "prHourlyLimit": 3,  
 }

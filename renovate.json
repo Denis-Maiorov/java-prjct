@@ -5,6 +5,8 @@
     "config:base"
   ],
   "packageRules": [
+    {
     "bumpVersion" : "patch",
+    }
     ],
 }

@@ -1,9 +1,15 @@
 {
-  "bumpVersion" : "mirror:renovate",
+  "bumpVersion" : "patch",
   "extends": [
     "config:base"
   ],
   "enabledManagers": [
        "maven"
     ],
+  "packageRules": [
+    {
+        "matchManagers": ["npm"],
+        "bumpVersion" : "mirror:renovate"
+    },
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "bumpVersion" : "patch",
-  "bumpVersion" : "mirror:qwe",
+  "bumpVersion" : "mirror:renovate",
   "extends": [
     "config:base"
   ],

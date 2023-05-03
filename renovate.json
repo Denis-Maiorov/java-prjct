@@ -1,5 +1,4 @@
 {
-  "bumpVersion" : "patch",
   "bumpVersion" : "mirror:renovate",
   "extends": [
     "config:base"

@@ -1,5 +1,5 @@
 {
-  "bumpVersion" : "mirror:renovate",
+  "bumpVersion" : "mirror:re",
   "extends": [
     "config:base"
   ],
@@ -9,7 +9,7 @@
   "packageRules": [
     {
         "matchManagers": ["npm"],
-        "bumpVersion" : "mirror:renovate"
+        "bumpVersion" : "mirror:re"
     },
   ]
 }

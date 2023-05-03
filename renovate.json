@@ -1,5 +1,6 @@
 {
-  "bumpVersion" : ["patch", "mirror:qwe"],
+  "bumpVersion" : "patch",
+  "bumpVersion" : "mirror:qwe",
   "extends": [
     "config:base"
   ],

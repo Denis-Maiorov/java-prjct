@@ -6,6 +6,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@bokken/npm-test": "1.0.0"
+    "@bokken/npm-test": "1.0.0",
+    "@angular-devkit/architect": {
+      "version": "0.1102.18",
+      "dev": true,
+      "requires": {
+        "@angular-devkit/core": "11.2.18",
+        "rxjs": "6.6.3"
+      }
   }
 }

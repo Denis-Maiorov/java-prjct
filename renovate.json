@@ -1,7 +1,7 @@
 {
   "bumpVersion" : "patch",
-  
   "enabledManagers": [
-     "maven"
-  ],
+       "maven"
+    ],
+  "assignees": ["dmai0821"]
 }

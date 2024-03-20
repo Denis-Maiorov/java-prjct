@@ -11,7 +11,7 @@
   <version>1.0.6</version>
 
   <properties>
-      <lombok.version>1.18.20</lombok.version><!-- Can be any dependency with an outdated version -->
+      <lombok.version>1.18.32</lombok.version><!-- Can be any dependency with an outdated version -->
   </properties>
 
   <modules>
